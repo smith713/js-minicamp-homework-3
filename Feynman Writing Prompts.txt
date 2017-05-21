@@ -1,0 +1,7 @@
+Feynman Writing Prompts
+
+* Objects - a collection of properties
+* Properties - the association between a key and a value
+* Methods - functions in a object
+* for in loop - loops through the properties of an object
+* dot notation vs bracket notation - bracket notation does the same as dot   notation but it can use variables. Both are used to access properties in an   object.
